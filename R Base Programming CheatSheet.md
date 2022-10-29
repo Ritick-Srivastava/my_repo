@@ -42,7 +42,7 @@
 
 ### Creating Vectors
 | Initialization|Vector| Definition |
-|--|--|--|--|
+|--|--|--|
 |c(2,4,6)|**2 4 6**   |Join elements into a vector|
 |2:6|**2 3 4 5 6**   |An Integer Sequence|
 |seq(2, 3, by=0.5)|**2.0 2.5 3.0**   |A complex sequence|
